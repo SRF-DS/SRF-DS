@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**SRF-DS/SRF-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Programming Skills:
   Excel/VBA: Advanced functionalities and data manipulation
   Python: Libraries including Pandas, NumPy, Matplotlib, JSON
@@ -23,8 +19,13 @@ Machine Learning:
   Deep Learning: Advanced neural network models
 
 Data Engineering:
-ETL Processes: Extract, Transform, Load methodologies
-Big Data Technologies: Hadoop and Spark
+  ETL Processes: Extract, Transform, Load methodologies
+  Big Data Technologies: Hadoop and Spark
+
+<!--
+**SRF-DS/SRF-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 
