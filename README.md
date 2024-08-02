@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRF-DS)](https://github.com/SRF-DS/github-readme-stats)
+
 Programming Skills:
   Excel/VBA: Advanced functionalities and data manipulation
   Python: Libraries including Pandas, NumPy, Matplotlib, JSON
@@ -10,9 +12,14 @@ Programming Skills:
 
 Data Visualization Tools:
   Tableau: Business intelligence and data visualization
+
+<!--
+**SRF-DS/SRF-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Data Visualization Tools:
   HTML/CSS: Front-end web development for dashboards
   JavaScript Libraries: D3.js and Leaflet.js for interactive visualizations
-  
+
 Machine Learning:
   Supervised Learning: Techniques for predictive modeling
   Unsupervised Learning: Clustering methods and data segmentation
@@ -21,12 +28,6 @@ Machine Learning:
 Data Engineering:
   ETL Processes: Extract, Transform, Load methodologies
   Big Data Technologies: Hadoop and Spark
-
-<!--
-**SRF-DS/SRF-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 
 
 
