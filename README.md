@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRF-DS)](https://github.com/SRF-DS/github-readme-stats)
+
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRF-DS&show_icons=true&theme=tokyonight)
 
 Programming Skills:
@@ -15,6 +15,9 @@ Data Visualization Tools:
   Tableau: Business intelligence and data visualization
 
 <!--
+Original code for GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 **SRF-DS/SRF-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Data Visualization Tools:
