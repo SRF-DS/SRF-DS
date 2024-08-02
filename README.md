@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRF-DS)](https://github.com/SRF-DS/github-readme-stats)
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRF-DS&show_icons=true&theme=radical)
 
 Programming Skills:
   Excel/VBA: Advanced functionalities and data manipulation
