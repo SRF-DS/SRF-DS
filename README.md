@@ -5,9 +5,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRF-DS&layout=compact&theme=radical)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SRF-DS&repo=SRF-DS&theme=radical)]
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical)]
-(https://github.com/SRF-DS/github-readme-stats)
-
 
 
 
