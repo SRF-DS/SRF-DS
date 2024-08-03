@@ -5,11 +5,9 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRF-DS&layout=compact&theme=radical)]
 (https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical)]
-(https://github.com/SRF-DS/SRF-DS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical)](https://github.com/SRF-DS/SRF-DS)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical)]
-(https://github.com/SRF-DS/github-readme-stats)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical)](https://github.com/SRF-DS/github-readme-stats)
 
 
 
