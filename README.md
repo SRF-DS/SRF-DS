@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-       ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRF-DS&show_icons=true&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SRF-DS&repo=SRF-DS&theme=radical)       ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRF-DS&show_icons=true&theme=tokyonight)
 
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRF-DS&layout=compact&theme=radical)
