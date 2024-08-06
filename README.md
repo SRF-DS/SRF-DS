@@ -15,9 +15,9 @@ Programming Skills:
   Excel/VBA: Advanced functionalities and data manipulation
   Python: Libraries including Pandas, NumPy, Matplotlib, JSON
   R: R programming for statistical analysis (dplyr, ggplot2, tidyverse) 
-  JavaScript: Charting and web visualization
+  
   SQL: Database management and querying
-  NoSQL: MongoDB for unstructured data
+  
 
 Data Visualization Tools:
   Tableau: Business intelligence and data visualization
@@ -25,6 +25,9 @@ Data Visualization Tools:
 <!--
 Original code for GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+NoSQL: MongoDB for unstructured data
+JavaScript: Charting and web visualization
 
 **SRF-DS/SRF-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
